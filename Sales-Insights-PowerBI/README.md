@@ -8,5 +8,6 @@
 <br>
 <h2>Dashboard</h2>
 <img src="Dashboard_Image.png" alt="Sales Insights">
+<p>Ref: https://www.skillbasics.com/courses/sales-insights-power-bi-project</p>
 
 
